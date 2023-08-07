@@ -1,6 +1,7 @@
 --------------------------------------------------------------
 # Project Name: Request-Manager
 Basic project on Java:  Request Manager
+
 mock database: without database connection
 --------------------------------------------------------------
 # Description Dinamic Web Project
